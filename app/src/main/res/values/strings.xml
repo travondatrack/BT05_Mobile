@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BT05_Retrofit2</string>
+    <string name="category_image_desc">Ảnh danh mục món ăn</string>
+    <string name="name_cate">Name cate</string>
+</resources>
